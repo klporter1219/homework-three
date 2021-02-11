@@ -1,0 +1,75 @@
+.promo-tours {
+  width: 1280px;
+  height: 304px;
+  // background-color: bisque;
+  margin: -50px auto 0 auto;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 160px;
+  padding-right: 160px;
+}
+
+.promo1 {
+  height: 304px;
+  width: 236px;
+  // background-color: cadetblue;
+  background-image: url(../images/Group50.jpg);
+}
+
+.israel {
+  color: $white;
+  font-size: 60px;
+  display: block;
+  text-align: center;
+  font-family: "Proxima Nova";
+  padding-top: 56px;
+}
+
+.box {
+  background-color: $site-blue;
+  width: 133px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.learn {
+  color: $white;
+  font-size: 15px;
+  font-family: "Gill Sans";
+  display: block;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.promo2 {
+  height: 304px;
+  width: 236px;
+  // background-color: cadetblue;
+  background-image: url(../images/Group36.jpg);
+}
+
+.country {
+  color: $white;
+  font-size: 60px;
+  display: block;
+  text-align: center;
+  font-family: "Proxima Nova";
+  padding-top: 56px;
+}
+
+.promo3 {
+  height: 304px;
+  width: 236px;
+  // background-color: cadetblue;
+  background-image: url(../images/Group37.jpg);
+}
+
+.countryPrice {
+  color: $white;
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  margin-top: -23px;
+  font-family: "Proxima Nova";
+}
